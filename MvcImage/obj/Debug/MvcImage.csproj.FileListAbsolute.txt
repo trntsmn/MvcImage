@@ -53,3 +53,5 @@ C:\Users\Trent\Source\MvcImage\MvcImage\bin\Microsoft.Owin.Security.MicrosoftAcc
 C:\Users\Trent\Source\MvcImage\MvcImage\obj\Debug\MvcImage.csprojResolveAssemblyReference.cache
 C:\Users\Trent\Source\MvcImage\MvcImage\obj\Debug\MvcImage.dll
 C:\Users\Trent\Source\MvcImage\MvcImage\obj\Debug\MvcImage.pdb
+C:\Users\Trent\Source\MvcImage\MvcImage\obj\Debug\MvcImage.Migrations.Init.resources
+C:\Users\Trent\Source\MvcImage\MvcImage\obj\Debug\MvcImage.csproj.GenerateResource.Cache
