@@ -19,6 +19,14 @@ namespace MvcImage.Controllers
 			return Content("Wrong one.");
 		}
 
+
+        /// <summary>
+        /// 
+        /// 
+        /// 
+        /// 
+        /// </summary>
+        /// <param name="routes"></param>
 		public ActionResult Dynamic()
 		{
 			// Controller names are case insensitive.
@@ -92,7 +100,7 @@ namespace MvcImage.Controllers
                                     return base.File(newPath, sMimeType);
                                 }
                                 else
-                                    message = "Your size don't look so hot. Let's make sure we're not entering any 0's or anything!";
+                                    message = "Your size doesn't look so hot. Let's make sure we're not entering any 0's or anything!";
                             }
                         }
                     }
